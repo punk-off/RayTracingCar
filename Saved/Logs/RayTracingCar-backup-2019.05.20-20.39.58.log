@@ -1,0 +1,1621 @@
+﻿Log file open, 05/20/19 23:34:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RayTracingCar
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185908
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=punk-off -epicuserid=01e0c5169a04466e9ea45b05c8a66008 -epiclocale=ru-RU
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Engine.ini]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Engine.ini]
+[2019.05.20-20.34.48:940][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Engine.ini]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Engine.ini]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.20-20.34.48:940][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Engine.ini]
+[2019.05.20-20.34.48:940][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Engine.ini]
+[2019.05.20-20.34.48:942][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-20.34.48:942][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.20-20.34.48:942][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.20-20.34.48:942][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-20.34.48:942][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.20-20.34.48:942][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-20.34.48:942][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.20-20.34.48:942][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.20-20.34.48:943][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.20-20.34.48:944][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.20-20.34.48:944][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.20-20.34.48:944][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.20-20.34.48:944][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.20-20.34.48:944][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.20-20.34.48:944][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.20-20.34.48:944][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.20-20.34.48:944][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.20-20.34.48:944][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.20-20.34.48:944][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-20.34.48:944][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.20-20.34.48:944][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.20-20.34.48:944][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.20-20.34.48:944][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.20-20.34.48:958][  0]LogHAL: Display: Platform has ~ 8 GB [8183959552 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.05.20-20.34.48:958][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.20-20.34.48:958][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.20-20.34.48:958][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.20-20.34.48:958][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.20-20.34.48:958][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Scalability.ini]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.20-20.34.48:959][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.20-20.34.48:960][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.20-20.34.48:960][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.05.20-20.34.48:960][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Config/Windows/Engine.ini]
+[2019.05.20-20.34.48:960][  0]LogInit: Computer: DESKTOP-34B55FA
+[2019.05.20-20.34.48:960][  0]LogInit: User: DmitryPankov
+[2019.05.20-20.34.48:960][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.20-20.34.48:960][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.20-20.34.48:960][  0]LogMemory: Memory total: Physical=7.6GB (8GB approx)
+[2019.05.20-20.34.48:960][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.20-20.34.48:960][  0]LogMemory: Process Physical Memory: 96.73 MB used, 96.74 MB peak
+[2019.05.20-20.34.48:960][  0]LogMemory: Process Virtual Memory: 91.87 MB used, 91.87 MB peak
+[2019.05.20-20.34.48:960][  0]LogMemory: Physical Memory: 4060.14 MB used,  3744.69 MB free, 7804.83 MB total
+[2019.05.20-20.34.48:960][  0]LogMemory: Virtual Memory: 4647.18 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.05.20-20.34.48:977][  0]LogInit: Using OS detected language (ru-RU).
+[2019.05.20-20.34.48:977][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.05.20-20.34.48:978][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.05.20-20.34.48:978][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.05.20-20.34.48:978][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.05.20-20.34.48:979][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.05.20-20.34.48:979][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.05.20-20.34.48:979][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.05.20-20.34.48:979][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.05.20-20.34.48:979][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.05.20-20.34.48:980][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.20-20.34.49:008][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.20-20.34.49:008][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.20-20.34.49:282][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.20-20.34.49:282][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.20-20.34.49:346][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.05.20-20.34.49:346][  0]LogD3D11RHI:       4021/0/3902 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.20-20.34.49:360][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.20-20.34.49:360][  0]LogD3D11RHI:       128/0/3902 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.20-20.34.49:363][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.20-20.34.49:363][  0]LogD3D11RHI:       0/0/3902 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.20-20.34.49:363][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.20-20.34.49:393][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.20-20.34.49:393][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.05.20-20.34.49:393][  0]LogWindows: EnumDisplayDevices:
+[2019.05.20-20.34.49:393][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.05.20-20.34.49:394][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.20-20.34.49:394][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.20-20.34.49:394][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.05.20-20.34.49:394][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.05.20-20.34.49:394][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.05.20-20.34.49:394][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.05.20-20.34.49:394][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.05.20-20.34.49:432][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.20-20.34.49:436][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.20-20.34.49:437][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.20-20.34.49:437][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.05.20-20.34.49:451][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.20-20.34.49:778][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.05.20-20.34.49:793][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.05.20-20.34.49:807][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.05.20-20.34.49:822][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.05.20-20.34.49:836][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.05.20-20.34.49:851][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.05.20-20.34.49:866][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.05.20-20.34.49:880][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.05.20-20.34.49:889][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.05.20-20.34.49:975][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.05.20-20.34.49:976][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.05.20-20.34.49:977][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.05.20-20.34.50:027][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.05.20-20.34.50:028][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.05.20-20.34.50:052][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.05.20-20.34.50:052][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.05.20-20.34.50:065][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.05.20-20.34.50:079][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.05.20-20.34.50:094][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.05.20-20.34.50:108][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.05.20-20.34.50:157][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.05.20-20.34.50:157][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.05.20-20.34.50:157][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.20-20.34.50:167][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.05.20-20.34.50:221][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Intermediate/Shaders/WorkingDirectory/1424/).
+[2019.05.20-20.34.50:222][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dmitry Pankov/AppData/Local/Temp/UnrealShaderWorkingDir/B56FC9904985BE5B6D3051B6D13374E4/'.
+[2019.05.20-20.34.50:224][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.20-20.34.50:224][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.20-20.34.50:224][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.20-20.34.50:861][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.20-20.34.50:949][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/Dmitry Pankov/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.20-20.34.50:949][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dmitry Pankov/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.05.20-20.34.50:950][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.20-20.34.50:950][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.20-20.34.50:950][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.20-20.34.50:950][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.20-20.34.50:966][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.20-20.34.50:966][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.20-20.34.50:966][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.20-20.34.50:978][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dmitry Pankov/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.20-20.34.50:978][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.20-20.34.50:978][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.20-20.34.51:020][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.20-20.34.51:021][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.20-20.34.51:022][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.20-20.34.51:480][  0]LogAssetRegistry: FAssetRegistry took 0.0348 seconds to start up
+[2019.05.20-20.34.51:828][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.20-20.34.51:889][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.20-20.34.51:889][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.05.20-20.34.51:889][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.20-20.34.51:889][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.05.20-20.34.51:889][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.05.20-20.34.51:989][  0]LogNetVersion: RayTracingCar 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 570839626)
+[2019.05.20-20.34.52:431][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.050365 seconds
+[2019.05.20-20.34.52:438][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.05.20-20.34.52:438][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.05.20-20.34.52:438][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.20-20.34.54:386][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.20-20.34.54:401][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.20-20.34.54:513][  0]SourceControl: Source control is disabled
+[2019.05.20-20.34.54:513][  0]SourceControl: Source control is disabled
+[2019.05.20-20.34.54:514][  0]SourceControl: Source control is disabled
+[2019.05.20-20.34.54:515][  0]SourceControl: Source control is disabled
+[2019.05.20-20.34.54:817][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.20-20.34.54:891][  0]LogOcInput: OculusInput pre-init called
+[2019.05.20-20.34.55:661][  0]LogEngine: Initializing Engine...
+[2019.05.20-20.34.55:662][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.20-20.34.55:663][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.05.20-20.34.56:575][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.20-20.34.56:593][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.20-20.34.56:687][  0]LogInit: XAudio2 using 'Динамики / головные телефоны (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-20.34.57:439][  0]LogInit: FAudioDevice initialized.
+[2019.05.20-20.34.57:440][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.20-20.34.58:147][  0]LogDerivedDataCache: Saved boot cache 0.71s 71MB C:/Users/Dmitry Pankov/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.05.20-20.34.58:183][  0]LogInit: Texture streaming: Enabled
+[2019.05.20-20.34.58:216][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.20-20.34.58:239][  0]LogInit: Transaction tracking system initialized
+[2019.05.20-20.34.58:268][  0]BlueprintLog: New page: Editor Load
+[2019.05.20-20.34.58:366][  0]LocalizationService: Localization service is disabled
+[2019.05.20-20.34.58:689][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Content/' took 0.02s
+[2019.05.20-20.34.58:689][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.20-20.34.58:690][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.20-20.34.58:940][  0]SourceControl: Source control is disabled
+[2019.05.20-20.34.58:940][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Content/VehicleBP/Maps/VehicleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.20-20.34.58:941][  0]LightingResults: New page: Lighting Build
+[2019.05.20-20.34.58:948][  0]MapCheck: New page: Map Check
+[2019.05.20-20.34.58:948][  0]LightingResults: New page: Lighting Build
+[2019.05.20-20.34.58:989][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.05.20-20.34.59:306][  0]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.05.20-20.34.59:314][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.20-20.34.59:344][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.05.20-20.34.59:344][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.20-20.34.59:344][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,203ms to complete.
+[2019.05.20-20.34.59:344][  0]LogFileHelpers: Loading map 'VehicleExampleMap' took 0.403
+[2019.05.20-20.34.59:456][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-20.34.59:465][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-20.34.59:473][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-20.34.59:484][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-20.34.59:539][  0]LogCollectionManager: Loaded 0 collections in 0.004014 seconds
+[2019.05.20-20.34.59:557][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Saved/Collections/' took 0.01s
+[2019.05.20-20.34.59:557][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Content/Developers/DmitryPankov/Collections/' took 0.00s
+[2019.05.20-20.34.59:557][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Dmitry Pankov/Documents/Unreal Projects/RayTracingCar/Content/Collections/' took 0.00s
+[2019.05.20-20.34.59:557][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.20-20.34.59:568][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2734 classes and 662 folders.
+[2019.05.20-20.34.59:575][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.20-20.34.59:578][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:578][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:585][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:585][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.20-20.34.59:624][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.20-20.34.59:630][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.20-20.34.59:713][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.20-20.34.59:715][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.20-20.34.59:720][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.20-20.34.59:796][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.05.20-20.35.00:055][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.20-20.35.00:055][  0]LogLoad: (Engine Initialization) Total time: 12.83 seconds
+[2019.05.20-20.35.00:055][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.20-20.35.00:086][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2019.05.20-20.35.00:086][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2019.05.20-20.35.00:086][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2019.05.20-20.35.00:086][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2019.05.20-20.35.00:086][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2019.05.20-20.35.00:155][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.20-20.35.00:191][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.20-20.35.00:266][  1]LogAssetRegistry: Asset discovery search completed in 8.8086 seconds
+[2019.05.20-20.35.00:269][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.05.20-20.35.00:269][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2019.05.20-20.35.18:096][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-20.35.23:580][733]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.20-20.35.23:592][733]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VehicleBP/MyBlueprints/BP_RayTracingCar.BP_RayTracingCar
+[2019.05.20-20.35.23:874][733]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.05.20-20.35.24:751][733]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.20-20.35.24:841][734]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.20-20.35.29:577][986]LogRenderer: Reallocating scene render targets to support 964x540 Format 10 NumSamples 1 (Frame:1).
+[2019.05.20-20.35.33:623][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-20.35.52:137][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-20.36.30:341][434]BlueprintLog: New page: Compile BP_RayTracingCar
+[2019.05.20-20.36.30:358][434]LogBlueprint: Error: [Compiler BP_RayTracingCar] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2019.05.20-20.36.30:546][434]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.05.20-20.36.30:557][434]LogBlueprint: Warning: [Compiler BP_RayTracingCar] [0103,33] Compile of BP_RayTracingCar failed. 1 Fatal Issue(s) 0 Warning(s) [in 216 ms] (/Game/VehicleBP/MyBlueprints/BP_RayTracingCar.BP_RayTracingCar)
+[2019.05.20-20.36.52:809][726]BlueprintLog: New page: Compile BP_RayTracingCar
+[2019.05.20-20.36.52:998][726]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2019.05.20-20.36.56:212][908]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-20.36.56:229][908]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.36.56:229][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-20.36.56:229][908]PIE: New page: PIE session: VehicleExampleMap (21 мая 2019 г., 2:36:56)
+[2019.05.20-20.36.56:242][908]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.05.20-20.36.56:261][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019197s)
+[2019.05.20-20.36.56:262][908]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.05.20-20.36.56:263][908]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2019.05.20-20.36.56:263][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.020705s)
+[2019.05.20-20.36.56:349][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2019.05.20-20.36.56:354][908]LogInit: XAudio2 using 'Динамики / головные телефоны (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-20.36.56:446][908]LogInit: FAudioDevice initialized.
+[2019.05.20-20.36.56:488][908]LogLoad: Game class is 'BP_RayTracingCarGameMode_C'
+[2019.05.20-20.36.56:494][908]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2019.05.20-23.36.56
+[2019.05.20-20.36.56:495][908]LogWorld: Bringing up level for play took: 0.002135
+[2019.05.20-20.36.56:520][908]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.05.20-20.36.56:528][908]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.05.20-20.36.56:529][908]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.05.20-20.36.56:529][908]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.20-20.36.56:529][908]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.20-20.36.56:529][908]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.20-20.36.56:531][908]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.20-20.36.56:531][908]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 0,974
+[2019.05.20-20.36.56:531][908]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.36.56:936][909]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.56:963][911]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.56:982][912]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.56:998][913]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:015][914]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:031][915]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:047][916]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:065][917]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:081][918]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:098][919]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:114][920]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:131][921]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:148][922]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:165][923]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:182][924]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:199][925]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:215][926]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:231][927]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:248][928]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:264][929]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:281][930]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:298][931]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:315][932]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:331][933]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:348][934]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.57:364][935]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:714][ 16]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:715][ 16]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:731][ 17]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:731][ 17]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:748][ 18]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:748][ 18]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:765][ 19]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:765][ 19]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:781][ 20]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:781][ 20]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:798][ 21]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:798][ 21]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:815][ 22]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:815][ 22]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:832][ 23]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:832][ 23]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:848][ 24]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:848][ 24]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:865][ 25]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:865][ 25]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:881][ 26]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:882][ 26]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:899][ 27]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:899][ 27]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:916][ 28]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:916][ 28]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:932][ 29]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:932][ 29]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:948][ 30]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:949][ 30]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:965][ 31]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:965][ 31]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:982][ 32]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:982][ 32]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:998][ 33]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.58:998][ 33]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:015][ 34]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:015][ 34]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:032][ 35]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:032][ 35]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:048][ 36]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:048][ 36]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:065][ 37]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:065][ 37]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:082][ 38]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:082][ 38]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:098][ 39]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:098][ 39]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:115][ 40]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:115][ 40]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:131][ 41]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:131][ 41]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:148][ 42]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:148][ 42]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:164][ 43]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:164][ 43]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:181][ 44]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:182][ 44]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:198][ 45]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:198][ 45]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:215][ 46]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:215][ 46]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:232][ 47]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:232][ 47]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:249][ 48]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:249][ 48]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:265][ 49]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:265][ 49]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:283][ 50]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:283][ 50]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:298][ 51]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:298][ 51]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:316][ 52]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:316][ 52]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:332][ 53]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:332][ 53]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:348][ 54]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:348][ 54]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:364][ 55]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:364][ 55]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:381][ 56]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:381][ 56]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:398][ 57]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:398][ 57]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:415][ 58]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:415][ 58]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:432][ 59]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:432][ 59]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:448][ 60]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:448][ 60]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:464][ 61]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:464][ 61]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:482][ 62]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:482][ 62]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:498][ 63]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:498][ 63]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:515][ 64]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:515][ 64]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:532][ 65]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:532][ 65]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:549][ 66]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:549][ 66]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:565][ 67]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:581][ 68]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:598][ 69]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:615][ 70]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:631][ 71]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:648][ 72]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:664][ 73]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.36.59:681][ 74]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:207][165]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:208][165]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:223][166]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:223][166]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:240][167]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:240][167]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:256][168]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:256][168]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:272][169]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:272][169]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:289][170]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:289][170]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:306][171]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:306][171]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:323][172]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:323][172]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:340][173]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:340][173]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:359][174]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:359][174]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:375][175]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:375][175]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:392][176]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:392][176]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:409][177]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:409][177]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:425][178]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:425][178]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:441][179]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:442][179]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:458][180]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:458][180]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:474][181]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:474][181]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:490][182]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:491][182]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:507][183]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:507][183]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:524][184]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:524][184]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:541][185]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:541][185]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:557][186]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:557][186]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:574][187]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:574][187]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:591][188]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:591][188]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:608][189]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:624][190]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:641][191]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:657][192]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:674][193]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:691][194]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:708][195]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.01:724][196]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.37.04:314][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.37.04:315][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-20.37.04:349][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-20.37.04:349][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.37.04:412][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-20.37.04:435][351]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2019.05.20-20.37.04:445][351]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-20.37.04:487][352]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.05.20-20.37.13:490][882]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-20.37.13:494][882]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-20.37.17:899][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-20.37.55:612][261]BlueprintLog: New page: Compile BP_RayTracingCar
+[2019.05.20-20.37.55:846][261]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2019.05.20-20.38.02:544][650]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-20.38.02:563][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.38.02:563][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-20.38.02:563][650]PIE: New page: PIE session: VehicleExampleMap (21 мая 2019 г., 2:38:02)
+[2019.05.20-20.38.02:563][650]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.05.20-20.38.02:580][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017052s)
+[2019.05.20-20.38.02:581][650]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.05.20-20.38.02:581][650]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2019.05.20-20.38.02:581][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.018141s)
+[2019.05.20-20.38.02:658][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.05.20-20.38.02:663][650]LogInit: XAudio2 using 'Динамики / головные телефоны (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-20.38.02:746][650]LogInit: FAudioDevice initialized.
+[2019.05.20-20.38.02:779][650]LogLoad: Game class is 'BP_RayTracingCarGameMode_C'
+[2019.05.20-20.38.02:787][650]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2019.05.20-23.38.02
+[2019.05.20-20.38.02:787][650]LogWorld: Bringing up level for play took: 0.002180
+[2019.05.20-20.38.02:800][650]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.20-20.38.02:800][650]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.20-20.38.02:800][650]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.20-20.38.02:803][650]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.20-20.38.02:803][650]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0,753
+[2019.05.20-20.38.02:804][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.38.05:603][817]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:604][817]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:620][818]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:620][818]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:637][819]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:637][819]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:653][820]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:653][820]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:670][821]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:670][821]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:687][822]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:687][822]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:704][823]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:704][823]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:720][824]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:720][824]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:737][825]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:737][825]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:753][826]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:753][826]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:770][827]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:770][827]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:786][828]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:786][828]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:803][829]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:803][829]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:820][830]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:820][830]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:836][831]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:836][831]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:854][832]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:854][832]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:870][833]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:870][833]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:886][834]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:887][834]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:903][835]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:903][835]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:920][836]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:920][836]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:937][837]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:937][837]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:954][838]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:954][838]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:970][839]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:970][839]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:987][840]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.05:987][840]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:003][841]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:003][841]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:020][842]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:020][842]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:037][843]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:037][843]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:054][844]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:054][844]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:070][845]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:070][845]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:087][846]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:087][846]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:103][847]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:103][847]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:120][848]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:120][848]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:137][849]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:137][849]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:153][850]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:153][850]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:169][851]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:169][851]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:186][852]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:186][852]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:203][853]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:203][853]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:220][854]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:220][854]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:236][855]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:236][855]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:253][856]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:253][856]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:270][857]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:270][857]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:286][858]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:287][858]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:303][859]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:303][859]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:320][860]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:320][860]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:337][861]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:337][861]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:353][862]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:353][862]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:369][863]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:370][863]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:386][864]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:386][864]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:403][865]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:403][865]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:420][866]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:420][866]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:436][867]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:436][867]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:454][868]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:454][868]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:470][869]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:470][869]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:487][870]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:487][870]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:503][871]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:503][871]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:520][872]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:520][872]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:537][873]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:537][873]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:554][874]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:554][874]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:571][875]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:571][875]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:586][876]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:586][876]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:603][877]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:603][877]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:620][878]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:620][878]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:637][879]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:637][879]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:654][880]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:654][880]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:670][881]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:670][881]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:687][882]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:687][882]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:704][883]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:704][883]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:720][884]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:720][884]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:737][885]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:737][885]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:754][886]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:754][886]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:770][887]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:771][887]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:787][888]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:787][888]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:804][889]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:804][889]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:820][890]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:820][890]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:836][891]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:836][891]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:853][892]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:853][892]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:870][893]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:870][893]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:887][894]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:887][894]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:903][895]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:903][895]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:920][896]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:920][896]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:936][897]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:936][897]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:954][898]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:954][898]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:970][899]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:970][899]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:987][900]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.06:987][900]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:003][901]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:003][901]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:020][902]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:020][902]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:036][903]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:037][903]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:054][904]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:055][904]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:070][905]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:070][905]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:087][906]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:088][906]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:104][907]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:104][907]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:120][908]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:120][908]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:136][909]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:136][909]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:153][910]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:153][910]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:170][911]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:170][911]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:187][912]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:187][912]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:204][913]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:220][914]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:237][915]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:254][916]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:270][917]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:287][918]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:303][919]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.07:320][920]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.38.08:139][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.38.08:139][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-20.38.08:170][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-20.38.08:170][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.38.08:217][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-20.38.08:222][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.05.20-20.38.08:231][969]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-20.38.08:269][970]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.05.20-20.38.16:553][461]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-20.38.16:557][461]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-20.38.19:129][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-20.39.04:080][ 19]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-20.39.04:098][ 19]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.39.04:098][ 19]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.20-20.39.04:102][ 19]LogPlayLevel: [PlayLevel] Compiling BP_RayTracingCar before play...
+[2019.05.20-20.39.04:342][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.05.20-20.39.04:342][ 19]LogPlayLevel: PlayLevel: Blueprint regeneration took 244 ms (1 blueprints)
+[2019.05.20-20.39.04:342][ 19]PIE: New page: PIE session: VehicleExampleMap (21 мая 2019 г., 2:39:04)
+[2019.05.20-20.39.04:342][ 19]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.05.20-20.39.04:361][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018434s)
+[2019.05.20-20.39.04:362][ 19]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.05.20-20.39.04:362][ 19]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2019.05.20-20.39.04:362][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.019818s)
+[2019.05.20-20.39.04:415][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.05.20-20.39.04:419][ 19]LogInit: XAudio2 using 'Динамики / головные телефоны (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-20.39.04:526][ 19]LogInit: FAudioDevice initialized.
+[2019.05.20-20.39.04:555][ 19]LogLoad: Game class is 'BP_RayTracingCarGameMode_C'
+[2019.05.20-20.39.04:564][ 19]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2019.05.20-23.39.04
+[2019.05.20-20.39.04:565][ 19]LogWorld: Bringing up level for play took: 0.002217
+[2019.05.20-20.39.04:577][ 19]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.20-20.39.04:577][ 19]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.20-20.39.04:577][ 19]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.20-20.39.04:578][ 19]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.20-20.39.04:579][ 19]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap 1,021
+[2019.05.20-20.39.04:579][ 19]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.39.05:657][ 83]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:657][ 83]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:673][ 84]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:674][ 84]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:690][ 85]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:690][ 85]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:706][ 86]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:706][ 86]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:723][ 87]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:723][ 87]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:739][ 88]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:739][ 88]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:757][ 89]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:757][ 89]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:774][ 90]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:774][ 90]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:791][ 91]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:791][ 91]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:808][ 92]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:808][ 92]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:824][ 93]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:824][ 93]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:840][ 94]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:840][ 94]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:857][ 95]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:858][ 95]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:873][ 96]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:873][ 96]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:891][ 97]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:891][ 97]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:912][ 98]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:913][ 98]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:928][ 99]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:928][ 99]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:945][100]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:945][100]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:963][101]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:963][101]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:979][102]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:979][102]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:996][103]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.05:996][103]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:012][104]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:013][104]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:028][105]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:028][105]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:045][106]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:045][106]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:062][107]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:078][108]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:095][109]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:112][110]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:128][111]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:145][112]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:162][113]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:178][114]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:362][125]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:362][125]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:378][126]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:378][126]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:395][127]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:395][127]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:411][128]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:411][128]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:429][129]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:429][129]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:444][130]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:444][130]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:462][131]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:462][131]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:478][132]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:478][132]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:495][133]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:495][133]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:511][134]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:511][134]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:528][135]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:528][135]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:545][136]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:545][136]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:561][137]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:561][137]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:578][138]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:578][138]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:594][139]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:595][139]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:611][140]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:611][140]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:628][141]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:628][141]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:645][142]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:645][142]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:662][143]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:662][143]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:678][144]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:678][144]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:695][145]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:695][145]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:711][146]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:711][146]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:728][147]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:728][147]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:744][148]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:745][148]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:761][149]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:761][149]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:778][150]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:778][150]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:794][151]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:794][151]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:811][152]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:811][152]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:828][153]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:828][153]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:845][154]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:861][155]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:878][156]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:895][157]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:912][158]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:928][159]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:945][160]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.06:962][161]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMesh. Please use the Teleport flag
+[2019.05.20-20.39.08:263][239]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.39.08:263][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-20.39.08:291][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-20.39.08:291][239]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.39.08:339][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-20.39.08:345][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.05.20-20.39.08:354][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-20.39.08:416][240]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.05.20-20.39.10:031][333]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-20.39.10:036][333]LogSlate: Window 'Message Log' being destroyed
+[2019.05.20-20.39.11:769][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.20-20.39.38:904][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-20.39.39:019][792]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-20.39.39:037][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.39.39:037][792]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.20-20.39.39:040][792]LogPlayLevel: [PlayLevel] Compiling BP_RayTracingCar before play...
+[2019.05.20-20.39.39:278][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2019.05.20-20.39.39:278][792]LogPlayLevel: PlayLevel: Blueprint regeneration took 240 ms (1 blueprints)
+[2019.05.20-20.39.39:278][792]PIE: New page: PIE session: VehicleExampleMap (21 мая 2019 г., 2:39:39)
+[2019.05.20-20.39.39:278][792]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.05.20-20.39.39:297][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018644s)
+[2019.05.20-20.39.39:298][792]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.05.20-20.39.39:298][792]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2019.05.20-20.39.39:298][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.020159s)
+[2019.05.20-20.39.39:345][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.05.20-20.39.39:349][792]LogInit: XAudio2 using 'Динамики / головные телефоны (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-20.39.39:444][792]LogInit: FAudioDevice initialized.
+[2019.05.20-20.39.39:477][792]LogLoad: Game class is 'BP_RayTracingCarGameMode_C'
+[2019.05.20-20.39.39:482][792]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2019.05.20-23.39.39
+[2019.05.20-20.39.39:482][792]LogWorld: Bringing up level for play took: 0.002531
+[2019.05.20-20.39.39:496][792]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.20-20.39.39:496][792]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.20-20.39.39:496][792]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.20-20.39.39:498][792]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.20-20.39.39:498][792]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0,059
+[2019.05.20-20.39.39:498][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.39.42:295][959]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.39.42:295][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-20.39.42:328][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-20.39.42:328][959]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.39.42:376][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-20.39.42:380][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.05.20-20.39.42:400][960]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.05.20-20.39.44:593][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-20.39.44:710][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.20-20.39.44:727][ 98]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.39.44:727][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.20-20.39.44:727][ 98]PIE: New page: PIE session: VehicleExampleMap (21 мая 2019 г., 2:39:44)
+[2019.05.20-20.39.44:727][ 98]LogPlayLevel: Creating play world package: /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap
+[2019.05.20-20.39.44:745][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018157s)
+[2019.05.20-20.39.44:746][ 98]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2019.05.20-20.39.44:746][ 98]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2019.05.20-20.39.44:746][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.019700s)
+[2019.05.20-20.39.44:789][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.05.20-20.39.44:794][ 98]LogInit: XAudio2 using 'Динамики / головные телефоны (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.20-20.39.44:879][ 98]LogInit: FAudioDevice initialized.
+[2019.05.20-20.39.44:911][ 98]LogLoad: Game class is 'BP_RayTracingCarGameMode_C'
+[2019.05.20-20.39.44:917][ 98]LogWorld: Bringing World /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2019.05.20-23.39.44
+[2019.05.20-20.39.44:917][ 98]LogWorld: Bringing up level for play took: 0.001915
+[2019.05.20-20.39.44:929][ 98]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.20-20.39.44:929][ 98]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.20-20.39.44:929][ 98]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.20-20.39.44:931][ 98]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.20-20.39.44:931][ 98]PIE: Play in editor start time for /Game/VehicleBP/Maps/UEDPIE_0_VehicleExampleMap -0,626
+[2019.05.20-20.39.44:931][ 98]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.39.51:033][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.39.51:034][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-20.39.51:067][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.20-20.39.51:067][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleBP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2019.05.20-20.39.51:116][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.20-20.39.51:121][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.05.20-20.39.51:141][462]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.05.20-20.39.54:700][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.20-20.39.54:876][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.05.20-20.39.55:769][683]LogSlate: Window 'Save Content' being destroyed
+[2019.05.20-20.39.55:849][683]LogSlate: Window 'BP_RayTracingCar' being destroyed
+[2019.05.20-20.39.55:917][683]LogSlate: Window 'RayTracingCar - Unreal Editor' being destroyed
+[2019.05.20-20.39.56:117][684]Cmd: QUIT_EDITOR
+[2019.05.20-20.39.56:322][684]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.20-20.39.56:334][684]LogExit: Preparing to exit.
+[2019.05.20-20.39.56:653][684]LogExit: Editor shut down
+[2019.05.20-20.39.56:654][684]LogExit: Transaction tracking system shut down
+[2019.05.20-20.39.56:886][684]LogExit: Object subsystem successfully closed.
+[2019.05.20-20.39.56:904][684]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.20-20.39.56:908][684]LogD3D11RHI: Shutdown
+[2019.05.20-20.39.56:908][684]LogD3D11RHI: CleanupD3DDevice
+[2019.05.20-20.39.56:908][684]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.05.20-20.39.56:908][684]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.05.20-20.39.56:908][684]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.05.20-20.39.56:908][684]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.05.20-20.39.56:909][684]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.05.20-20.39.56:909][684]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.05.20-20.39.57:050][684]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.20-20.39.57:071][684]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2019.05.20-20.39.57:071][684]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2019.05.20-20.39.57:071][684]LogModuleManager: Shutting down and abandoning module BlueprintGraph (646)
+[2019.05.20-20.39.57:071][684]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.05.20-20.39.57:071][684]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.05.20-20.39.57:071][684]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2019.05.20-20.39.57:072][684]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2019.05.20-20.39.57:073][684]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2019.05.20-20.39.57:074][684]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2019.05.20-20.39.57:631][684]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2019.05.20-20.39.57:632][684]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2019.05.20-20.39.57:632][684]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2019.05.20-20.39.57:632][684]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2019.05.20-20.39.57:632][684]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2019.05.20-20.39.57:674][684]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2019.05.20-20.39.57:674][684]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2019.05.20-20.39.57:674][684]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2019.05.20-20.39.57:674][684]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2019.05.20-20.39.57:674][684]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2019.05.20-20.39.57:674][684]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2019.05.20-20.39.57:674][684]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2019.05.20-20.39.57:674][684]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2019.05.20-20.39.57:674][684]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2019.05.20-20.39.57:674][684]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2019.05.20-20.39.57:674][684]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2019.05.20-20.39.57:685][684]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2019.05.20-20.39.57:685][684]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2019.05.20-20.39.57:685][684]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module ModuleUI (450)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module MovieSceneTools (448)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module OutputLog (446)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module GammaUI (444)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module Documentation (442)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module LiveCoding (440)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module LevelSequence (438)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (436)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module MovieScene (434)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (432)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module LauncherPlatform (430)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module AnalyticsET (428)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module PortalServices (426)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module PortalRpc (424)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module MessagingRpc (422)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module AIModule (420)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module GameplayDebugger (419)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module AITestSuite (417)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module NavigationSystem (415)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module DesktopPlatform (412)
+[2019.05.20-20.39.57:686][684]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2019.05.20-20.39.57:690][684]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2019.05.20-20.39.57:860][684]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.05.20-20.39.57:861][684]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.05.20-20.39.57:862][684]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.05.20-20.39.57:862][684]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2019.05.20-20.39.57:862][684]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2019.05.20-20.39.57:862][684]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2019.05.20-20.39.57:862][684]LogModuleManager: Shutting down and abandoning module RawInput (364)
+[2019.05.20-20.39.57:862][684]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.05.20-20.39.57:862][684]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.05.20-20.39.57:862][684]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.05.20-20.39.57:862][684]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.05.20-20.39.57:862][684]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.05.20-20.39.57:862][684]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.05.20-20.39.57:862][684]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.05.20-20.39.57:862][684]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.05.20-20.39.57:862][684]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.20-20.39.57:863][684]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.05.20-20.39.57:864][684]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.20-20.39.57:865][684]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.20-20.39.57:965][684]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.20-20.39.58:065][684]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.05.20-20.39.58:065][684]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.05.20-20.39.58:065][684]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.05.20-20.39.58:065][684]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.05.20-20.39.58:065][684]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.05.20-20.39.58:065][684]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.20-20.39.58:065][684]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.05.20-20.39.58:065][684]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.05.20-20.39.58:065][684]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.05.20-20.39.58:065][684]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.05.20-20.39.58:065][684]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.05.20-20.39.58:066][684]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.05.20-20.39.58:066][684]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.05.20-20.39.58:066][684]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.05.20-20.39.58:067][684]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.05.20-20.39.58:067][684]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.05.20-20.39.58:068][684]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.05.20-20.39.58:068][684]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.05.20-20.39.58:069][684]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.05.20-20.39.58:070][684]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.05.20-20.39.58:070][684]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.05.20-20.39.58:070][684]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.05.20-20.39.58:070][684]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.05.20-20.39.58:070][684]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.05.20-20.39.58:071][684]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.05.20-20.39.58:072][684]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.05.20-20.39.58:072][684]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.05.20-20.39.58:072][684]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.05.20-20.39.58:072][684]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.05.20-20.39.58:072][684]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.05.20-20.39.58:075][684]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.05.20-20.39.58:075][684]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.05.20-20.39.58:075][684]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.05.20-20.39.58:075][684]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.05.20-20.39.58:075][684]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.05.20-20.39.58:075][684]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.05.20-20.39.58:075][684]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.05.20-20.39.58:075][684]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.05.20-20.39.58:075][684]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.05.20-20.39.58:076][684]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.05.20-20.39.58:076][684]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.05.20-20.39.58:076][684]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.05.20-20.39.58:076][684]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.05.20-20.39.58:076][684]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.05.20-20.39.58:076][684]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.05.20-20.39.58:076][684]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.05.20-20.39.58:156][684]LogDerivedDataCache: Shutdown
+[2019.05.20-20.39.58:156][684]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.05.20-20.39.58:156][684]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.05.20-20.39.58:156][684]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.05.20-20.39.58:156][684]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.05.20-20.39.58:156][684]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.05.20-20.39.58:156][684]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.05.20-20.39.58:156][684]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.05.20-20.39.58:156][684]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.05.20-20.39.58:156][684]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.05.20-20.39.58:156][684]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.05.20-20.39.58:156][684]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.05.20-20.39.58:157][684]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.05.20-20.39.58:157][684]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.05.20-20.39.58:157][684]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.05.20-20.39.58:157][684]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.05.20-20.39.58:157][684]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.05.20-20.39.58:157][684]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.05.20-20.39.58:157][684]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.05.20-20.39.58:159][684]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.05.20-20.39.58:159][684]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.05.20-20.39.58:160][684]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.05.20-20.39.58:160][684]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.05.20-20.39.58:160][684]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.05.20-20.39.58:162][684]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.05.20-20.39.58:162][684]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.05.20-20.39.58:163][684]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.05.20-20.39.58:163][684]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.05.20-20.39.58:170][684]LogHMD: Freeing OpenVRDLLHandle.
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.05.20-20.39.58:170][684]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.05.20-20.39.58:171][684]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.05.20-20.39.58:171][684]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.05.20-20.39.58:180][684]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.05.20-20.39.58:180][684]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.20-20.39.58:180][684]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72E83A04-4686-C991-F60A-0FA61D0100C7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=8f174be44a4f2f382dff7daad1f2cc54%7C01e0c5169a04466e9ea45b05c8a66008%7Cbcf34aac-eb29-4619-a327-006c329f9673&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.20-20.39.58:194][684]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.05.20-20.39.58:195][684]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.05.20-20.39.58:196][684]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.05.20-20.39.58:202][684]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.05.20-20.39.58:202][684]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.05.20-20.39.58:203][684]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.05.20-20.39.58:203][684]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.05.20-20.39.58:203][684]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.05.20-20.39.58:203][684]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.05.20-20.39.58:203][684]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.05.20-20.39.58:203][684]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.05.20-20.39.58:203][684]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.05.20-20.39.58:203][684]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.05.20-20.39.58:203][684]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.05.20-20.39.58:203][684]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.05.20-20.39.58:203][684]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.05.20-20.39.58:204][684]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.05.20-20.39.58:204][684]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.05.20-20.39.58:204][684]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.05.20-20.39.58:204][684]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.05.20-20.39.58:204][684]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.05.20-20.39.58:204][684]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.05.20-20.39.58:204][684]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.05.20-20.39.58:204][684]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.05.20-20.39.58:209][684]LogExit: Exiting.
+[2019.05.20-20.39.58:221][684]Log file closed, 05/20/19 23:39:58
